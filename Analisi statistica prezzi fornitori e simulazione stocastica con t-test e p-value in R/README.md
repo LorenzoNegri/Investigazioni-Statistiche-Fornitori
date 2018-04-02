@@ -7,4 +7,4 @@ In questo caso si vuole investigare, su base di dati campionari e di ampiezza ri
 
 Per visualizzare il file markdown R andare [qui](https://github.com/LorenzoNegri/investigazioni-scientifiche-fornitori/blob/master/Analisi%20statistica%20prezzi%20fornitori%20e%20simulazione%20stocastica%20con%20t-test%20e%20p-value%20in%20R/Analisi%20statistica%20prezzi%20fornitori%20e%20simulazione%20stocastica%20con%20t-test%20e%20p-value%20in%20R.md)
 
-Per visualizzare e/o scaricare il file csv dei dati andare [qui](https://github.com/LorenzoNegri/investigazioni-scientifiche-fornitori/blob/master/Analisi%20statistica%20prezzi%20fornitori%20e%20simulazione%20stocastica%20con%20t-test%20e%20p-value%20in%20R/vanAllC.csv)
+È possibile visualizzare e/o scaricare il file csv da [qui](https://github.com/LorenzoNegri/investigazioni-scientifiche-fornitori/blob/master/Analisi%20statistica%20prezzi%20fornitori%20e%20simulazione%20stocastica%20con%20t-test%20e%20p-value%20in%20R/vanAllC.csv)
