@@ -11,23 +11,5 @@ Da un analisi di due fornitori presi in esame si è prodotto il seguente file:
 
 vanAllC.csv
 
-#estratto lettura da notepad:
-
-vendor,price.mo
-VA,7.2
-VA,7.3
-VA,7.4
-VA,7.6
-VA,7.8
-VA,7.7
-...
-...
-VB,8.8
-VB,8.7
-VB,8.7
-VB,8.6
-VB,8.9
-VB,9.3
-
 Il file è di tipo csv con virgola come metodo di separazione e raccoglie l'andamento dei prezzi al kg (con "." come separatore decimale e arrotondamento a una cifra) riferiti alla lamiera di alluminio grezza da 1mm di spessore. I dati sono stati raccolti durante gli ultimi due anni e non sono noti rifierimenti temporali delle osservazioni, ma è accertata l'univocità dei rilevamenti, ordinati dal più datato a quello più recente, suddivisi per fornitore e incolonnati.
 
