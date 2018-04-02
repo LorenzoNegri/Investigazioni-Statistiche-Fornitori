@@ -8,3 +8,9 @@ In questo caso si vuole investigare, su base di dati campionari e di ampiezza ri
 Per visualizzare il report completo andare [qui](https://github.com/LorenzoNegri/investigazioni-scientifiche-fornitori/blob/master/Analisi%20statistica%20prezzi%20fornitori%20e%20simulazione%20stocastica%20con%20t-test%20e%20p-value%20in%20R/Analisi%20statistica%20prezzi%20fornitori%20e%20simulazione%20stocastica%20con%20t-test%20e%20p-value%20in%20R.md)
 
 È possibile visualizzare e/o scaricare il file csv da [qui](https://github.com/LorenzoNegri/investigazioni-scientifiche-fornitori/blob/master/Analisi%20statistica%20prezzi%20fornitori%20e%20simulazione%20stocastica%20con%20t-test%20e%20p-value%20in%20R/vanAllC.csv)
+
+Il file R di importazione csv e visualizzazione è [qui](https://github.com/LorenzoNegri/investigazioni-scientifiche-fornitori/blob/master/Analisi%20statistica%20prezzi%20fornitori%20e%20simulazione%20stocastica%20con%20t-test%20e%20p-value%20in%20R/import_file_%26_visuals.r)
+
+Il file R per il t-test e histogram è [qui](https://github.com/LorenzoNegri/investigazioni-scientifiche-fornitori/blob/master/Analisi%20statistica%20prezzi%20fornitori%20e%20simulazione%20stocastica%20con%20t-test%20e%20p-value%20in%20R/t-test_vanAllC.r)
+
+il file R per la simulazione e algoritmo stocastico è [qui](https://github.com/LorenzoNegri/investigazioni-scientifiche-fornitori/blob/master/Analisi%20statistica%20prezzi%20fornitori%20e%20simulazione%20stocastica%20con%20t-test%20e%20p-value%20in%20R/simulazione_%26_algoritmo_stocastico.r)
