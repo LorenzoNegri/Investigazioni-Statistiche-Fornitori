@@ -1,4 +1,4 @@
-# R-investigazione-statistica-prezzi-fornitori
+# investigazioni-scientifiche-fornitori
 
 Lo scopo di questa repository è di raccolgiere e presentare in lingua italiana, alcuni metodi di analisi scientifica che possono essere utili per ottenere valore aggiunto nella scelta, nelle decisioni, e nei rapporti con i fornitori.
 
