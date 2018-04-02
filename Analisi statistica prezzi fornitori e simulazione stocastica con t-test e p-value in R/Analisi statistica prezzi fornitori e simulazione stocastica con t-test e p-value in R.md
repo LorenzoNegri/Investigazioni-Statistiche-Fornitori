@@ -139,7 +139,7 @@ Non è possibile confrontare direttamente l'andamento dei prezzi nel tempo o con
 
 Verifichiamo poi con il t-test se la differenza del valore medio delle distribuzioni non è significativa.
 
-# t-test 
+## t-test 
 
 Creiamo ora il t.test() a due code per ottenere il test statistico e il p-value in R. Se avessimo avuto pari osservazioni  per entrambi i fornitori (ad esempio con un accoppiamento mensile), avremmo potuto utilizzare il parametro paired=TRUE per eseguire il t-test accoppiato.
 
@@ -193,7 +193,7 @@ Per ricreare una situzione vicina alla distribuzione normale possiamo usare una 
 
 Sapendo che se VA e VB avessero avuto una distribuzione approssimativamente uguale, avremmo potuto utilizzare indistintamente i dati dell'uno o dell'altro nella simulazione. Ispirati da questo lo scopo ora è di ricreare una simile situazione..
 
-# Simulazione e algoritmo stocastico
+## Simulazione e algoritmo stocastico
 
 Procederemo in questo modo:
 - Determiniamo il numero (n1) di osservazioni per il fornitore VA. 
@@ -284,7 +284,7 @@ curve(dnorm(x, mean=mean(my.t.values), sd=sd(my.t.values)), , col="red", add=TRU
 
 L'idea che i valori seguano una distribuzione uniforme ora sembra ragionevole.
 
-# Conlcusioni
+## Conlcusioni
 
 Possiamo quindi rifiutare la nostra ipotesi iniziale e dire che i prezzi di vendita per le lamiere di alluminio di spessore da 1mm per i due fornitori presi in esame, non sono indipendenti dal tipo di fornitore. 
 
