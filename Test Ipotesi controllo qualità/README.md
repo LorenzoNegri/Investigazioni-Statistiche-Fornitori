@@ -1,5 +1,5 @@
 
-# Analisi statistica prezzi fornitori e simulazione stocastica con t-test e p-value in R
+# Test di Ipotesi 
 
 Molto spesso nella pratica di scelta o di scambio tra due fornitori siamo chiamati a prendere delle decisioni in base al prezzo di vendita della merce e altri fattori. Tali decisioni spesso vengono prese in base a semplici confronti di convenienza economica, basate sull'ultima e/o penultima quotazione ricevuta. Un attenta analisi dei dati può aiutarci a prendere le giuste decisioni e creare valore aggiunto.
 
