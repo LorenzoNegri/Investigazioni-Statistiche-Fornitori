@@ -11,7 +11,7 @@ Elenco:
 
 [Problem solving con Hypothesis Testing nel controllo qualità in R](https://github.com/LorenzoNegri/Investigazioni-Statistiche-Fornitori/tree/master/Test%20Ipotesi%20controllo%20qualit%C3%A0)
 
-[Problem solving con Test Chi-square Indipendenza in R](https://github.com/LorenzoNegri/Investigazioni-Statistiche-Fornitori/tree/master/Test%20Chi-square%20Indipendenza)
+[Problem solving con Test Chi-square per verificare l'indipendenza di variabili in R](https://github.com/LorenzoNegri/Investigazioni-Statistiche-Fornitori/tree/master/Test%20Chi-square%20Indipendenza)
 
 
 
