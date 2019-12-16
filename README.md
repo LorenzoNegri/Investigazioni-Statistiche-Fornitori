@@ -9,9 +9,9 @@ Elenco:
 
 [Analisi statistica prezzi fornitori e simulazione stocastica con t-test e p-value in R](https://github.com/LorenzoNegri/investigazioni-scientifiche-fornitori/tree/master/Analisi%20statistica%20prezzi%20fornitori%20e%20simulazione%20stocastica%20con%20t-test%20e%20p-value%20in%20R)
 
-[Hypothesis Testing di controllo qualità in R](https://github.com/LorenzoNegri/Investigazioni-Statistiche-Fornitori/tree/master/Test%20Ipotesi%20controllo%20qualit%C3%A0)
+[Problem solving con Hypothesis Testing nel controllo qualità in R](https://github.com/LorenzoNegri/Investigazioni-Statistiche-Fornitori/tree/master/Test%20Ipotesi%20controllo%20qualit%C3%A0)
 
-[Test Chi-square Indipendenza in R](https://github.com/LorenzoNegri/Investigazioni-Statistiche-Fornitori/tree/master/Test%20Chi-square%20Indipendenza)
+[Problem solving con Test Chi-square Indipendenza in R](https://github.com/LorenzoNegri/Investigazioni-Statistiche-Fornitori/tree/master/Test%20Chi-square%20Indipendenza)
 
 
 
