@@ -5,6 +5,7 @@ Quando si tenta di raggiungere una spiegazione ad una difformità, è utile ragi
 
 In molti casi, formuliamo un'ipotesi statistica per il solo scopo di rifiutarla.  
 
-Di seguito sono rappresentati alcuni problemi risolti di qualità e dispute con i fornitori, basati sulla supposizione che certe ipotesi siano false scaturite dall'analisi di campioni casuali di forniture.
+Di seguito sono rappresentati alcuni problemi risolti sulla qualità e dispute con i fornitori con analisi di campioni di forniture.
 
-**Per visualizzare il report completo** andare [qui](https://github.com/LorenzoNegri/investigazioni-scientifiche-fornitori/blob/master/Analisi%20statistica%20prezzi%20fornitori%20e%20simulazione%20stocastica%20con%20t-test%20e%20p-value%20in%20R/Analisi%20statistica%20prezzi%20fornitori%20e%20simulazione%20stocastica%20con%20t-test%20e%20p-value%20in%20R.md)
+Nel seguente caso abbiamo un fabbricante che afferma di rispettare il peso dei componenti forniti come da specifiche di contratto, ma l'azienda non è convinta:
+**Per visualizzare il report del Fabbricante Sovrappeso** andare [qui](https://github.com/LorenzoNegri/Investigazioni-Statistiche-Fornitori/blob/master/Test%20Ipotesi%20controllo%20qualit%C3%A0/Fabbricante_sovrappeso.ipynb)
