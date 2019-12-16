@@ -1,10 +1,10 @@
-# Hypothesis Testing di controllo qualità
+# Chi-square Test di indipendenza tra variabili
 
-Quando si tenta di raggiungere una spiegazione ad una difformità, è utile ragionare su ipotesi statistiche, su affermazioni di probabilità. 
+Test basilare in analisi statistica per dati categorici. Il test determina se due variabili sono indipendenti e che quindi non esista una dipendenza statistica tra di loro. 
 
-In molti casi, formuliamo un'ipotesi statistica per il solo scopo di rifiutarla.  
+In ambito aziendale può essere utilizzato in diversi modi, come per prendere decisioni riguardo se una data variabile possa incididere sul risultato di un'altra.  
 
-Di seguito sono rappresentati alcuni problemi risolti sulla qualità e dispute con i fornitori con analisi di campioni di forniture.
+Di seguito sono rappresentati alcuni problemi risolti con i fornitori utilizzando tale metodo.
 
 1) Nel seguente caso abbiamo un fabbricante che afferma di rispettare il peso dei componenti forniti come da specifiche di contratto, ma l'azienda non è convinta:
 **Per visualizzare il report del Fabbricante Sovrappeso** andare [qui](https://github.com/LorenzoNegri/Investigazioni-Statistiche-Fornitori/blob/master/Test%20Ipotesi%20controllo%20qualit%C3%A0/Fabbricante_sovrappeso.ipynb)
