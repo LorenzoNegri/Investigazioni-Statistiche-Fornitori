@@ -11,7 +11,7 @@ Elenco:
 
 [Hypothesis Testing di controllo qualità in R](https://github.com/LorenzoNegri/Investigazioni-Statistiche-Fornitori/tree/master/Test%20Ipotesi%20controllo%20qualit%C3%A0)
 
-
+[Test Chi-square Indipendenza in R](https://github.com/LorenzoNegri/Investigazioni-Statistiche-Fornitori/tree/master/Test%20Chi-square%20Indipendenza)
 
 
 
