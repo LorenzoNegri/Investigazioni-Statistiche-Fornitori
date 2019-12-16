@@ -1,8 +1,8 @@
-# Chi-square Test di indipendenza tra variabili
+# ANOVA Analisi della varianza
 
-Test basilare in analisi statistica per dati categorici. Il test determina se due variabili sono indipendenti e che quindi non esista una dipendenza statistica tra di loro. 
+L'analisi consiste in una statistica inferenziale che permette di confrontare due o più gruppi di dati confrontando la variabilità interna a questi gruppi con la variabilità tra i gruppi. 
 
-In ambito aziendale può essere utilizzato in diversi modi, come per prendere decisioni riguardo se una data variabile possa incididere sul risultato di un'altra.  
+In ambito aziendale può essere utilizzato in diversi modi, come verificare che i dati forniti da un fornitore riguardo ai suoi prodotti siano conformi a quanto dichiarato.  
 
 Di seguito sono rappresentati alcuni problemi risolti utilizzando tale metodo.
 
