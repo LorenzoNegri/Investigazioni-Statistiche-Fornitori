@@ -1,5 +1,5 @@
 # Investigazioni-Statistiche-Fornitori
-## Scienza dei dati applicata in ambito acquisti e qualità 
+## Scienza dei dati applicata alla gestione fornitori, acquisti e qualità 
 
 Lo scopo di questa repository è di raccolgiere e presentare in lingua italiana, alcuni metodi di analisi scientifica dei dati nell'ottica di un industria "data driven" utili per creare valore aggiunto nella scelta, nelle decisioni, focalizzando l'attenzione al continuous improvement nei rapporti con i fornitori.
 
