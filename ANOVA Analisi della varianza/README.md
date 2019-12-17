@@ -6,5 +6,5 @@ In ambito aziendale può essere utilizzato in diversi modi, come verificare che 
 
 Di seguito sono rappresentati alcuni problemi risolti utilizzando tale metodo.
 
-1) In questo esempio analizzerò i dati per verificare l'indipendeza tra i ritardi sui pagamenti ai fornitori e il ritardo delle consegne delle forniture:
-Per visualizzare il report delle **Analisi Ritardo delle Consegne delle forniture** andare [qui](https://github.com/LorenzoNegri/Investigazioni-Statistiche-Fornitori/blob/master/Test%20Chi-square%20Indipendenza/analisi_ritardo_consegne.ipynb)
+1) In questo esempio l'analisi della varianza è stata utilizzata per valutare l'offerta del fornitore riguardo a tre fertilizzanti:
+Per visualizzare il report **La scelta tra fertilizzanti proposti dal fornitore** andare [qui](https://github.com/LorenzoNegri/Investigazioni-Statistiche-Fornitori/blob/master/ANOVA%20Analisi%20della%20varianza/anova_fertilizzante.ipynb)
